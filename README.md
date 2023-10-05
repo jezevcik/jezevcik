@@ -1,1 +1,1 @@
-<h4 align="center"><samp> JVM Lover </samp></h4>
+`Java user. I am mostly a Minecraft client developer, though I do other hobby projects sometimes.`
