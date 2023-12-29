@@ -44,7 +44,7 @@
 
 # Contact :
 
-<img height="319.5" alt="GIF" align="right" src="https://media1.tenor.com/m/I8NLSr6ZI8UAAAAC/chasing-you-world-penguin-day.gif">
+<img height="200" alt="GIF" align="right" src="https://media1.tenor.com/m/I8NLSr6ZI8UAAAAC/chasing-you-world-penguin-day.gif">
 
 ### My discord server :)
 [![Discord](https://discord.com/api/guilds/1185673483246633020/widget.png?style=banner4)](https://discord.gg/atDs9AukjK)
