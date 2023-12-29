@@ -44,7 +44,7 @@
 
 # Contact :
 
-<img height="319.5" alt="GIF" align="right" src="https://media1.tenor.com/m/JsZfF6mK3V0AAAAC/toma.gif">
+<img height="319" alt="GIF" align="right" src="https://media1.tenor.com/m/JsZfF6mK3V0AAAAC/toma.gif">
 
 ### My discord server :)
 [![Discord](https://discord.com/api/guilds/1185673483246633020/widget.png?style=banner4)](https://discord.gg/atDs9AukjK)
