@@ -42,7 +42,7 @@
 --->
 [![learning](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,unity)](https://skillicons.dev)
 
-# Contact :
+# Contact
 
 <img height="319" alt="GIF" align="right" src="https://media1.tenor.com/m/JsZfF6mK3V0AAAAC/toma.gif">
 
