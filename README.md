@@ -8,7 +8,7 @@
 
   <img width="510" alt="GIF" align="right" src="https://media1.tenor.com/m/apq3ABjzhrsAAAAC/kazuki-schwul-working-penguin.gif">
 
-### - I'm a 13 year old programming enthusiast
+### - I'm attempting to be a developer
 
 ### - Know :
 
